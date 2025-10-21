@@ -28,11 +28,19 @@ A clean, modern, and responsive **Login & Signup Form** built with **HTML, CSS, 
 💡 How It Works
 Users can register and log in with a responsive form. Credentials are stored locally in the browser using LocalStorage.
 
+---
+
 🧠 Learning Highlights
 Form validation, DOM manipulation, JavaScript event handling, responsive Bootstrap design, and advance local storage concept.
+
+---
 
 📜 License
 This project is open-source and free to use under the MIT License.
 
+---
+
 ⭐ Don’t forget to star this repo if you like it!
+
+---
 
