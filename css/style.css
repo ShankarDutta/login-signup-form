@@ -1,0 +1,26 @@
+* {
+	font-family: sans-serif;
+}
+
+.bg-1 {
+	background-image: url(/Assets/bg.svg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.bg-col {
+	background-color: rgba(0, 0, 44, 0.775);
+	backdrop-filter: blur(2px);
+}
+
+.form-back {
+	background-color: rgba(198, 198, 198, 0.299);
+}
+
+.m {
+	margin-left: 30px;
+}
+
+.m1 {
+	margin-left: 90px;
+}
